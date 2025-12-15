@@ -25,7 +25,7 @@ All data is saved in the browser using **localStorage**, so no backend is needed
 ## How to Run
 1. Clone the project:
 bash
-git clone https://github.com/YOUR_USERNAME/react-task-management.git
+git clone https://github.com/nikhithasrungaram/react-task-management.git
 
 2.Go to the project folder:
 bash
